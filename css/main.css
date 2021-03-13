@@ -1,5 +1,5 @@
 html {
-  box-sizing: border-box;
+  /* Everything in here will design the HTML element*/
   background-color: #fdf6e3;
 }
 
@@ -8,5 +8,11 @@ html {
 }
 
 h1{
+  font-family: sans-serif;
+  text-transform: uppercase;
+  background-color: #eee8d5;
+}
 
+figcaption{
+  font-size:
 }
