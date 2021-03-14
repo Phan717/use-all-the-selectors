@@ -56,7 +56,7 @@ nav ul{
 }
 
 [rel="external"] {
-  color: #2694d8;
+  color: #inherit;
 }
 
 ol li:first-child {
