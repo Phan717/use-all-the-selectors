@@ -6,6 +6,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   background-color: #fdf6e3;
 }
@@ -50,7 +51,7 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn > botanically {
+.dfn + strong {
   color: #fff;
 }
 
