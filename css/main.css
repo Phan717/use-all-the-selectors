@@ -1,19 +1,64 @@
 html {
+  box-sizing: border-box;
+  background-color: #fdf6e3
+}
+
+body {
   background-color: #fdf6e3;
 }
 
-*, *::before, *::after {
-  box-sizing: inherit;
+header, footer {
+  font-size: 1.5rem;
 }
 
-h1{
-  color: inherit;
-  font-size: 1.5rem,
+nav ul{
   font-family: sans-serif;
+}
+
+.logo {
   text-transform: uppercase;
+}
+
+.wrapper{
   background-color: #eee8d5;
 }
 
-p {
-  background color: #fdf6e3;
+Contents favs facts types {
+  color: #93a1a1;
+}
+
+.wrapper > dfn {
+  background-color: #b58900;
+}
+
+.dfn strong "Botanically" {
+    color: #fff;
+}
+
+.no-highlight {
+  background-color: #719e07;
+}
+
+rel="external" {
+  color: #2694d8;
+}
+
+ol li:first-child {
+  color: #719e47;
+}
+
+ol li:last-child {
+  color: #2aa198;
+}
+
+.type li:nth-child(odd) {
+  background-color: #586e75;
+}
+
+.type li:nth-child(even) {
+  background-color: #58e75;
+}
+
+.types li:nth-child(3) {
+  background-color: #d04b16;
 }
