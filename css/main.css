@@ -3,6 +3,9 @@ html {
   background-color: #fdf6e3;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 body {
   background-color: #fdf6e3;
 }
@@ -12,7 +15,7 @@ header {
 }
 
 footer {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 nav ul {
