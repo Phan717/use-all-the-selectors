@@ -23,10 +23,6 @@ h2 {
   color: #93a1a1;
 }
 
-p {
-  background-color: #b58900;
-}
-
 h3 {
   color: #719e47;
   background-color: #fff;
@@ -60,7 +56,7 @@ nav ul {
   color: #93a1a1;
 }
 
-.wrapper > dfn {
+.wrapper > .dfn {
   background-color: #b58900;
 }
 
