@@ -32,7 +32,7 @@ Contents favs facts types {
 }
 
 .dfn strong "Botanically" {
-    color: #fff;
+  color: #fff;
 }
 
 .no-highlight {
@@ -52,11 +52,11 @@ ol li:last-child {
 }
 
 .type li:nth-child(odd) {
-  background-color: #586e75;
+  background-color: #657ba3;
 }
 
 .type li:nth-child(even) {
-  background-color: #58e75;
+  background-color: #586e75;
 }
 
 .types li:nth-child(3) {
