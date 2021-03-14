@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #fdf6e3
+  background-color: #fdf6e3;
 }
 
 body {
@@ -15,7 +15,7 @@ footer {
   font-size: 1.5rem
 }
 
-nav ul{
+nav ul {
   font-family: sans-serif;
 }
 
@@ -23,7 +23,7 @@ nav ul{
   text-transform: uppercase;
 }
 
-.wrapper{
+.wrapper {
   background-color: #eee8d5;
 }
 
@@ -40,14 +40,14 @@ nav ul{
 }
 
 #types {
-  color: #93a1a1
+  color: #93a1a1;
 }
 
 .wrapper > dfn {
   background-color: #b58900;
 }
 
-.dfn > Botanically {
+.dfn > botanically {
   color: #fff;
 }
 
