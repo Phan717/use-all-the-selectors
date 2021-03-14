@@ -55,7 +55,7 @@ nav ul{
   background-color: #719e07;
 }
 
-external:link {
+[rel="external"] {
   color: #2694d8;
 }
 
