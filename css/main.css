@@ -23,8 +23,20 @@ nav ul{
   background-color: #eee8d5;
 }
 
-Contents favs facts types {
+#Contents {
   color: #93a1a1;
+}
+
+#favs {
+  color: #93a1a1;
+}
+
+#facts {
+  color: #93a1a1;
+}
+
+#types {
+  color: #93a1a1
 }
 
 .wrapper > dfn {
@@ -39,7 +51,7 @@ Contents favs facts types {
   background-color: #719e07;
 }
 
-rel="external" {
+external:link {
   color: #2694d8;
 }
 
